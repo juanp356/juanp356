@@ -1,5 +1,3 @@
-
-
 # 👋 Hi there! I'm Juan 👨‍💻
 
 I'm a **Junior Software Developer** from **Colombia**, 18 years old, currently studying at **SENA**.  
@@ -26,6 +24,10 @@ Passionate about technology, continuous learning, and building innovative soluti
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🛠️ Version Control & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
 ## 🌱 Currently Learning
@@ -35,10 +37,9 @@ Passionate about technology, continuous learning, and building innovative soluti
 
 ---
 
-
-
 ## 📫 Contact
-- 📧 **Email:** juanpablogiraldo367@gmail.com 
+- 📧 **Email:** juanpablogiraldo367@gmail.com  
+
 ---
 
 ⭐ Always eager to learn, grow, and contribute to the world of software development.  
