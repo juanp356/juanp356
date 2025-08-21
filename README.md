@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Juan 👨‍💻
 
-I'm a **Junior Software Developer** from **Colombia 🇨🇴**, 18 years old, currently studying at **SENA**.  
+I'm a **Junior Software Developer** from **Colombia**, 18 years old, currently studying at **SENA**.  
 Passionate about technology, continuous learning, and building innovative solutions. 🚀  
 
 ---
