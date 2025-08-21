@@ -1,18 +1,15 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tuusuario/tuusuario/main/banner.png" alt="Banner Juan" width="100%" />
-</p>
 
-# 👋 ¡Hola! Soy Juan 👨‍💻
+# 👋 Hi there! I'm Juan 👨‍💻
 
-Soy **Desarrollador de Software Junior** de **Colombia 🇨🇴**, tengo 18 años y actualmente estudio en el **SENA**.  
-Apasionado por la tecnología, el aprendizaje constante y la creación de soluciones innovadoras. 🚀  
+I'm a **Junior Software Developer** from **Colombia 🇨🇴**, 18 years old, currently studying at **SENA**.  
+Passionate about technology, continuous learning, and building innovative solutions. 🚀  
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tech Stack
 
-### 👨‍💻 Lenguajes de Programación
+### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -22,39 +19,26 @@ Apasionado por la tecnología, el aprendizaje constante y la creación de soluci
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### 🎨 Librerías y Estilos
+### 🎨 UI Libraries & Styling
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Bases de Datos
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🌱 Actualmente
-- 📚 Estudiando en el **SENA** y mejorando mis habilidades.
-- 🚀 Trabajando en proyectos con **Spring Boot** y **Laravel**.
-- 🔍 Practicando **algoritmos y estructuras de datos** para fortalecer mi lógica de programación.
+## 🌱 Currently Learning
+- 📚 Studying at **SENA** and improving my skills.  
+- 🚀 Building projects with **Spring Boot** and **Laravel**.  
+- 🔍 Practicing **algorithms and data structures** to strengthen problem-solving skills.  
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight" alt="languages"/>
-</p>
-
+## 📫 Contact
+- 📧 **Email:** juanpablogiraldo367@gmail.com 
 ---
 
-## 📫 Contacto
-- 📧 **Correo:** tuemail@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🐙 [GitHub](https://github.com/tuusuario)  
-
----
-
-⭐ Siempre con ganas de aprender y crecer en el mundo del desarrollo.
+⭐ Always eager to learn, grow, and contribute to the world of software development.  
